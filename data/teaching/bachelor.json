@@ -1,0 +1,55 @@
+{
+  "lectures": [
+        {
+            "Titel": "Künstliche Intelligenz",
+            "English Title": null,
+            "EDV-Nr": "113442a",
+            "Studiengänge": "MI7",
+            "Dozent":  "Johannes Maucher",
+            "Sprache": "Deutsch",
+            "Art": null,
+            "Umfang": "4 SWS",
+            "ECTS-Punkte": 6,
+            "Workload": null,
+            "Prüfungsform": null,
+            "Beschreibung": null,
+            "English Abstract": null,
+            "Literatur": null,
+            "Internet": null 
+        },
+        {
+            "Titel": "Data Mining Lab",
+            "English Title": null,
+            "EDV-Nr": "113446a",
+            "Studiengänge": "MI7",
+            "Dozent":  "Johannes Maucher",
+            "Sprache": null,
+            "Art": null,
+            "Umfang": null,
+            "ECTS-Punkte": 6,
+            "Workload": null,
+            "Prüfungsform": null,
+            "Beschreibung": null,
+            "English Abstract": null,
+            "Literatur": null,
+            "Internet": null 
+        },
+        {
+            "Titel": "NLP",
+            "English Title": null,
+            "EDV-Nr": "113446b",
+            "Studiengänge": "MI7",
+            "Dozent":  "Johannes Maucher",
+            "Sprache": null,
+            "Art": null,
+            "Umfang": null,
+            "ECTS-Punkte": 3,
+            "Workload": null,
+            "Prüfungsform": null,
+            "Beschreibung": null,
+            "English Abstract": null,
+            "Literatur": null,
+            "Internet": null 
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+baseURL: "r.iuk.hdm-stuttgart.de"
+languageCode: en-us
+title: HdMR - die Initative für R an der Hochschule der Medien
+canonifyURLs: true

@@ -1,0 +1,106 @@
+[
+  {
+    "ISSN": "1613-0073",
+    "author": [
+      {
+        "family": "Aguirre",
+        "given": "José Luis"
+      },
+      {
+        "family": "Eckert",
+        "given": "Kai"
+      },
+      {
+        "family": "Euzenat",
+        "given": "Jérôme"
+      },
+      {
+        "literal": "others"
+      }
+    ],
+    "collection-title": "CEUR workshop proceedings",
+    "container-title": "Proceedings of the 7th international workshop on ontology matching (om-2012) collocated with the 11th international semantic web conference (iswc-2012), boston, ma, usa, november 11, 2012",
+    "editor": [
+      {
+        "family": "Shvaiko",
+        "given": "Pavel"
+      }
+    ],
+    "id": "Aguirre2012",
+    "issued": {
+      "year": 2012
+    },
+    "publisher": "CEUR-WS, http://ceur-ws.org/Vol-946/",
+    "title": "Results of the Ontology Alignment Evaluation Initiative 2012",
+    "type": "paper-conference",
+    "volume": "946"
+  },
+  {
+    "author": [
+      {
+        "family": "Bizer",
+        "given": "Christian"
+      },
+      {
+        "family": "Eckert",
+        "given": "Kai"
+      },
+      {
+        "family": "Meusel",
+        "given": "Robert"
+      },
+      {
+        "family": "Mühleisen",
+        "given": "Hannes"
+      },
+      {
+        "family": "Schuhmacher",
+        "given": "Michael"
+      },
+      {
+        "family": "Völker",
+        "given": "Johanna"
+      }
+    ],
+    "container-title": "Lecture notes in computer science the semantic web – iswc 2013 : 12th international semantic web conference, sydney, nsw, australia, october 21-25, 2013, proceedings, part ii",
+    "id": "Bizer2013",
+    "issued": {
+      "year": 2013
+    },
+    "page": "17-32",
+    "publisher": "Springer",
+    "publisher-place": "Berlin [u.a.]",
+    "title": "Deployment of RDFa, Microdata, and Microformats on the Web – A Quantitative Analysis",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Boland",
+        "given": "Katarina"
+      },
+      {
+        "family": "Ritze",
+        "given": "Dominique"
+      },
+      {
+        "family": "Eckert",
+        "given": "Kai"
+      },
+      {
+        "family": "Mathiak",
+        "given": "Brigitte"
+      }
+    ],
+    "container-title": "Lecture notes in computer science theory and practice of digital libraries : Second international conference, tpdl 2012, paphos, cyprus, september 23-27, 2012. Proceedings",
+    "id": "Boland2012",
+    "issued": {
+      "year": 2012
+    },
+    "note": "Best Paper Award",
+    "page": "150-161",
+    "publisher": "Springer, Berlin",
+    "title": "Identifying References to Datasets in Publications",
+    "type": "paper-conference"
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "lectures": [
+        {
+            "Titel": "Machine Learning",
+            "English Title": null,
+            "EDV-Nr": "143104a",
+            "Studiengänge": "CSM",
+            "Dozent":  "Johannes Maucher",
+            "Sprache": null,
+            "Art": null,
+            "Umfang": null,
+            "ECTS-Punkte": 5,
+            "Workload": null,
+            "Prüfungsform": null,
+            "Beschreibung": null,
+            "English Abstract": null,
+            "Literatur": null,
+            "Internet": null 
+        },
+        {
+            "Titel": "Data Science",
+            "English Title": null,
+            "EDV-Nr": "368412a",
+            "Studiengänge": "WI3",
+            "Dozent":  "Hendrik Meth",
+            "Sprache": null,
+            "Art": null,
+            "Umfang": null,
+            "ECTS-Punkte": 5,
+            "Workload": null,
+            "Prüfungsform": null,
+            "Beschreibung": null,
+            "English Abstract": null,
+            "Literatur": null,
+            "Internet": null 
+        },
+        {
+            "Titel": "Introduction to Data Science",
+            "English Title": null,
+            "EDV-Nr": "369130a",
+            "Studiengänge": "DBM",
+            "Dozent":  "Hendrik Meth",
+            "Sprache": null,
+            "Art": null,
+            "Umfang": null,
+            "ECTS-Punkte": 6,
+            "Workload": null,
+            "Prüfungsform": null,
+            "Beschreibung": null,
+            "English Abstract": null,
+            "Literatur": null,
+            "Internet": null 
+        },
+        {
+            "Titel": "BI- and Big-Data-Design Workshop",
+            "English Title": null,
+            "EDV-Nr": "369330a",
+            "Studiengänge": "DBM",
+            "Dozent": "Hendrik Meth",
+            "Sprache": null,
+            "Art": null,
+            "Umfang": null,
+            "ECTS-Punkte": 6,
+            "Workload": null,
+            "Prüfungsform": null,
+            "Beschreibung": null,
+            "English Abstract": null,
+            "Literatur": null,
+            "Internet": null 
+        }
+    ]
+}
