@@ -1,0 +1,21 @@
+<article>
+    <header class="container">
+        <h1 class="hdm_h"><span>{{ .Get "title" }}</span></h1>
+    </header>
+
+    <section class="content container people">
+        <!-- Get all pages from the headless /people bundle-->
+        {{ $people := .Site.GetPage "/people" }}
+        {{ $filter := .Get "filter" }}
+        {{range where $people.Resources ".Params.role" "in" $filter }}
+        <a href="/about/#{{ .Params.title }}">
+            <div class="profile_small">
+                <img src="/img/people/{{ .Params.image }}">
+                <h5>{{ .Params.name }}</h5>
+                <h6>{{ .Params.role }}</h6>
+                <p>{{ .Params.short_info }}</p>
+            </div>
+        </a>
+        {{end}}
+    </section>
+</article>
